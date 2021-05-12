@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140338154546",
+    "project_id": "expensify-b3b30",
+    "storage_bucket": "expensify-b3b30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140338154546:android:cbc26e2aabed836d92002b",
+        "android_client_info": {
+          "package_name": "com.yogesh.expensify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140338154546-uj9sgfh32i6l1793v55gaoshjojgekcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIBeNW1TxrpcrRGQugIgD1iAdE6JvuoSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140338154546-uj9sgfh32i6l1793v55gaoshjojgekcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
